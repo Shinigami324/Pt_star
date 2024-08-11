@@ -43,3 +43,22 @@ body {
 .title_photo {
     text-align: center;
 }
+
+.button_js{
+    text-align: center;
+}
+
+#mybytt{
+    border: none;
+    border-radius: 15px;
+    width: 150;
+    height: 50;
+    background-color: #a30f0f;
+    color: #fff;
+    font-weight: bold;
+}
+
+#demo img {
+    margin-top: 20px;
+    width: 25%;
+}
